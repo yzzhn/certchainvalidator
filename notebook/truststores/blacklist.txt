@@ -1,0 +1,1 @@
+C=CH,O=Vorwerk International Mittelsten Scheid and Co.,OU=Root CA,CN=Vorwerk International Root CA

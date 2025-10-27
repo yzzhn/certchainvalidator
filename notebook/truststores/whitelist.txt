@@ -1,0 +1,10 @@
+go daddy root certificate authority - g3
+microsoft code verification root
+digicert trusted root ca
+apple worldwide developer relations certification authority
+apple worldwide developer relations
+verisign trust network
+class 3 test public primary certification authority - g5
+verisign, inc.
+verisign 
+go daddy
